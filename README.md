@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Abdul Malik 
 
-### 🌐 Self-Taught Developer | Web Applications Specialist | Problem Solver
+<p align="center">
+  <img src="https://your-image-link.com/animated-header.gif" alt="🌐 Self-Taught Developer | Web Applications Specialist | Problem Solver" />
+</p>
 
 I'm a dedicated developer from Trivandrum, India, specializing in building robust, scalable web applications. My journey into development is rooted in a self-motivated drive to learn and master new technologies, enabling me to deliver high-quality solutions with a strong focus on best practices and effective design.
 
