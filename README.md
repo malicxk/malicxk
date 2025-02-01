@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&background=FFFFFF00&width=435&lines=Hi%2C+I'm+Abdul+Malik+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=3000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdul+Malik+%F0%9F%91%8B;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 ### 🌐 Self-Taught Developer | Web Applications Specialist | Problem Solver
