@@ -1,4 +1,4 @@
-# (https://readme-typing-svg.demolab.com/?lines= Hi Im Abdul Malik)](https://git.io/typing-svg)
+# Hi Im Abdul Malik
 
 
 ### 🌐 Self-Taught Developer | Web Applications Specialist | Problem Solver
